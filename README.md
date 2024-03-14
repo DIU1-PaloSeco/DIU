@@ -38,7 +38,7 @@ Miembros
 -----
 
 Persona #1: Representa fielmente a las personas con problemas de accesibilidad debido a una o varias discapacidades
-![Ficha Persona 1](img/Persona#1.png)
+![Ficha Persona 1](img/Persona01.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
