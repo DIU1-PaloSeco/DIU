@@ -27,7 +27,10 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+<b>User research - (plan) template </b>
+Realizaremos varias encuestas a numerosas personas en un abanico de edad muy amplio. Los temas podrían ser ¿Cuánto estarían dispuestos a pagar por unas clases de teatro? ¿Cuánto pagarían por ver una obra de teatro?
+<br>
+La investigación nos proporcionará un abanico de edades y precios que algunas de estas personas estarían dispuestas a pagar por una actividad. Con este enfoque, podríamos precisar hacia qué público y edades deberían de estar destinados nuestro servicios para un mayor porcentaje de éxito. 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
