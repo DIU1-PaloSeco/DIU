@@ -1,8 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_PaloSeco.  Curso: 2023/24 
+Updated: 14/3/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,16 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Adrián Castro Reyes     :octocat:     
+ * :bust_in_silhouette:  Antonio García Torres     :octocat:
 
------ 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
+-----
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -33,7 +27,10 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+<b>User research - (plan) template </b>
+Realizaremos varias encuestas a numerosas personas en un abanico de edad muy amplio. Los temas podrían ser ¿Cuánto estarían dispuestos a pagar por unas clases de teatro? ¿Cuánto pagarían por ver una obra de teatro?
+<br>
+La investigación nos proporcionará un abanico de edades y precios que algunas de estas personas estarían dispuestas a pagar por una actividad. Con este enfoque, podríamos precisar hacia qué público y edades deberían de estar destinados nuestro servicios para un mayor porcentaje de éxito. 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -43,7 +40,8 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Persona #1: Representa fielmente a las personas con problemas de accesibilidad debido a una o varias discapacidades
+![Ficha Persona 1](img/Persona01.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
