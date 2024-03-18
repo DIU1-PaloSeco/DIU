@@ -10,7 +10,14 @@ La investigación nos proporcionará un abanico de edades y precios que algunas 
 - Desk research: Análisis Competencia 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+- <b>Revisión de Usabilidad</b>
+> <b>documento:</b>  Usability-review-template-2.pdf / Usability-review-template.xlsx.
+<br>
+
+> <b>Valoración final (numérica):</b> 6,5
+<br>
+
+> <b>Comentario sobre la valoración:</b> Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
 
 
 (valoración y conclusiones de esta etapa)

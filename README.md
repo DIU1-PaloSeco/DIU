@@ -51,11 +51,11 @@ Persona #1: Representa fielmente a las personas con problemas de accesibilidad d
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de usabilidad
+>>>> Se deben incluir claramente los siguientes elementos
+>>> - documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
+>>> - Valoración final (numérica): 6,5
+>>> - Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
 
 
 ## Paso 2. UX Design  
