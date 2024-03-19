@@ -7,7 +7,10 @@ Realizaremos varias encuestas a numerosas personas en un abanico de edad muy amp
 <br>
 La investigación nos proporcionará un abanico de edades y precios que algunas de estas personas estarían dispuestas a pagar por una actividad. Con este enfoque, podríamos precisar hacia qué público y edades deberían de estar destinados nuestro servicios para un mayor porcentaje de éxito.
 
+
 - <b> Desk research: Análisis Competencia </b>
+
+
 
 - <b>2 Personas</b>
 
@@ -22,7 +25,10 @@ Persona #1: El escenario de esta persona representa fielmente un escenario habit
 ![Ficha Persona 1](../img/User01JourneyMap-screenshot.png)
 Persona #2: 
 ![Ficha Persona 1](../img/User02JourneyMap-screenshot.png)
+
+
 - <b>Revisión de Usabilidad</b>
+
 > <b>documento:</b>  Usability-review-template-2.pdf / Usability-review-template.xlsx.
 <br>
 
@@ -34,3 +40,6 @@ Persona #2:
 
 (valoración y conclusiones de esta etapa)
 
+- <b>Briefing</b>
+
+Como resumen de esta práctica nos gustaría compartir que bajo nuestro punto de vista no se trata de una página web mal implementada ni horrible. Tiene muchos puntos que mejorar, algunos más generales y otros más específicos, pero ninguno de ellos hace empeorar la experiencia del usuario a niveles catastróficos.
