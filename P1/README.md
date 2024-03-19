@@ -11,7 +11,11 @@ La investigación nos proporcionará un abanico de edades y precios que algunas 
 - <b> Desk research: Análisis Competencia </b>
 En este análisis de competencia llevamos acabo un estudio de tres empresas de la competencia como son The Actors Studio, The Second City, y Teatro Real.
 <br>
-Con cada de una de las empresas vamos a ver una serie de características y a clasificar cada una de las empresas en estas características con estrellas para finalmente ver cual es mejor y poder mejorar nuestra app fijandonos en las mejores en diversos aspectos.
+Con cada de una de las empresas vamos a ver una serie de características, en Bussiness Model nos centramos en el Precio, Marketing y Ofertas las cuales son las bases para un buen negocio.
+En technological issues hay que tener en cuenta la plataforma la seguridad de la misma y la velocidad/rendimiento.
+En functionality valoramos la Facilidad el Soporte de la página y la compatibilidad con diversos navegadores y dispositivos.
+Con usability lo mas importante de valorar es la navegación por la pagina, la claridad de la misma y la accesibilidad para personas de todas las edades.
+Y finalmente una serie de subjective issues como las fuerzas y las debilidades y una conclusión final
 
 
 - <b>2 Personas</b>
