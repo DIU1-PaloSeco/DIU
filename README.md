@@ -42,6 +42,8 @@ La investigación nos proporcionará un abanico de edades y precios que algunas 
 
 Persona #1: Representa fielmente a las personas con problemas de accesibilidad debido a una o varias discapacidades
 ![Ficha Persona 1](img/Persona01.png)
+Persona #2: 
+![Ficha Persona 2](img/Persona02.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -52,7 +54,6 @@ Persona #1: Representa fielmente a las personas con problemas de accesibilidad d
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de usabilidad
->>>> Se deben incluir claramente los siguientes elementos
 >>> - documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
 >>> - Valoración final (numérica): 6,5
 >>> - Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
