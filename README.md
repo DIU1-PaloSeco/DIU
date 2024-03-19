@@ -35,6 +35,10 @@ La investigación nos proporcionará un abanico de edades y precios que algunas 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
+En este análisis de competencia llevamos acabo un estudio de tres empresas de la competencia como son The Actors Studio, The Second City, y Teatro Real.
+<br>
+Con cada de una de las empresas vamos a ver una serie de características y a clasificar cada una de las empresas en estas características con estrellas para finalmente ver cual es mejor y poder mejorar nuestra app fijandonos en las mejores en diversos aspectos.
+
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
@@ -42,14 +46,14 @@ La investigación nos proporcionará un abanico de edades y precios que algunas 
 
 Persona #1: Representa fielmente a las personas con problemas de accesibilidad debido a una o varias discapacidades
 ![Ficha Persona 1](img/Persona01.png)
-Persona #2: 
+Persona #2: Esta persona representa a aquellas personas muy centradas en el trabajo que necesitan una vía de escape para volver a socializar y despejarse
 ![Ficha Persona 2](img/Persona02.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 Persona #1: El escenario de esta persona representa fielmente un escenario habitual en el que una persona con discapacidad intenta contratar un servicio a través de una página web
 ![Ficha Persona 1](img/User01JourneyMap-screenshot.png)
-Persona #2: 
+Persona #2: Representa el escenario que recorre una persona trabajadora hasta que consigue asistir a un curso de la app y sus conclusiones finales
 ![Ficha Persona 1](img/User02JourneyMap-screenshot.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
