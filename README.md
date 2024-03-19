@@ -47,16 +47,17 @@ Persona #2:
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Persona #1: El escenario de esta persona representa fielmente un escenario habitual en el que una persona con discapacidad intenta contratar un servicio a través de una página web
+![Ficha Persona 1](img/User01JourneyMap-screenshot.png)
+Persona #2: 
+![Ficha Persona 1](img/User02JourneyMap-screenshot.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de usabilidad
->>> - documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
->>> - Valoración final (numérica): 6,5
->>> - Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
+>> Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de usabilidad
+> - documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
+> - Valoración final (numérica): 6,5
+> - Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
 
 
 ## Paso 2. UX Design  
