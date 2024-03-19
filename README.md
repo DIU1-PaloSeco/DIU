@@ -58,6 +58,7 @@ Persona #2: Esta persona representa a aquellas personas muy centradas en el trab
 ----
 Persona #1: El escenario de esta persona representa fielmente un escenario habitual en el que una persona con discapacidad intenta contratar un servicio a través de una página web
 ![Ficha Persona 1](img/User01JourneyMap-screenshot.png)
+
 Persona #2: Representa el escenario que recorre una persona trabajadora hasta que consigue asistir a un curso de la app y sus conclusiones finales
 ![Ficha Persona 1](img/User02JourneyMap-screenshot.png)
 
