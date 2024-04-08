@@ -21,16 +21,20 @@ Y finalmente una serie de subjective issues como las fuerzas y las debilidades y
 - <b>2 Personas</b>
 
 Persona #1: Representa fielmente a las personas con problemas de accesibilidad debido a una o varias discapacidades
+
 ![Ficha Persona 1](../img/Persona01.png)
+
 Persona #2: Esta persona representa a aquellas personas muy centradas en el trabajo que necesitan una vía de escape para volver a socializar y despejarse
+
 ![Ficha Persona 2](../img/Persona02.png)
 
 - <b>2 User Journey Map  ( 1 por persona)</b>
 
 Persona #1: El escenario de esta persona representa fielmente un escenario habitual en el que una persona con discapacidad intenta contratar un servicio a través de una página web
-![Ficha Persona 1](../img/User01JourneyMap-screenshot.png)
+![Mapa Persona 1](../img/User01JourneyMap-screenshot.png)
+
 Persona #2: Representa el escenario que recorre una persona trabajadora hasta que consigue asistir a un curso de la app y sus conclusiones finales
-![Ficha Persona 1](../img/User02JourneyMap-screenshot.png)
+![Mapa Persona 2](../img/User02JourneyMap-screenshot.png)
 
 
 - <b>Revisión de Usabilidad</b>
