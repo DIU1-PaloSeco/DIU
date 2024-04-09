@@ -5,11 +5,12 @@ Grupo: DIU1_PaloSeco.  Curso: 2023/24
 Updated: 14/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Decida el nombre corto de su propuesta en la práctica 2
+Oasis
 
 Descripción: 
-
 >>> Describa la idea de su producto en la práctica 2 
+Polideportivo que oferta cursos y alquileres de pistas
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
