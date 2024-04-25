@@ -29,5 +29,4 @@ Hemos elaborado un sitemap en el que se puede observar como seria la organizaci�
 En este apartado hemos elaborado una serie de bocetos a mano alzada sobre varias paginas de nuestra web como puede ser dentro de una actividad, el inicio, registro, contacto , y después lo hemos pasado a Wireframe elaborando lo que sería una simulacion de nuestra web centrandonos en la pagina en la que saldría las actividades a elegir. Se ha realizado el prototipo wireframe a tres resoluciones diferentes y tambien un responsive.
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
 En esta práctica hemos aprendido a hacer un estudio sobre las personas para poder saber como tener éxito en nuestros proyectos, a hacer una valoración sobre como queremos que sea nuestro futuro con objetivos, necesidades y demás, a identificar nuestras tareas principales valorandolas tanto para los clientes como para los admnistradores, también a hacer un sitemap para tener una arquitectura de información de nuestro proyecto y finalmente a hacer bocetos y wireframe para estar preparados para llevar a cabo el proyecto.
