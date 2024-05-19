@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
+
  1-Logotipo
     Para el logotipo de nuestra página queriamos algo que representará correctamente nuestra vision 
     sobre el deporte, que combinará con nuestro titulo y llamará la atención siendo simple, con todo
@@ -31,6 +32,7 @@
 
 ## Landing Page
 Para el boceto de nuestar LandingPage hemos incluido: 
+
     1-Titulo:
         LA CASA DEL DEPORTE Y LA SUPERACION PERSONAL
         Un título llamativo y motivador que inspire a la gente a interesarse por nuestra propuesta.
@@ -56,6 +58,7 @@ Para el boceto de nuestar LandingPage hemos incluido:
 Para el layout hemos simulado nuestra web implementando nuestros bocetos, un menú home principal, un menú de 
 nuestras actividades/pistas, un apartado que explica varias cosas sobre nosotros, otro apartado de contacto, 
 y uno finalmente para tu perfil.
+
     1-Menú Principal:
         En este aparece en primer lugar un apartado simulando la landing page pero resumida con un boton para 
         acceder al registro del cliente, y otro apartado debajo sobre las actividades mas populares junto a un 
@@ -78,8 +81,8 @@ y uno finalmente para tu perfil.
         actividades contratadas, sus pistas reservedas o simplemente cerrar sesión.
 
 ## Documentación: Publicación del Case Study
-    Este proyecto se centra en el diseño de nuestra web final, fijándonos en los clientes y como llamar su atención 
-    y enfocado en la experiencia del usuario.
+Este proyecto se centra en el diseño de nuestra web final, fijándonos en los clientes y como llamar su atención 
+y enfocado en la experiencia del usuario.
 
     Objetivos:
         Los objetivos principales han sido:
