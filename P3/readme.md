@@ -2,33 +2,33 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
- 1-Logotipo
-    Para el logotipo de nuestra página queriamos algo que representará correctamente nuestra vision 
-    sobre el deporte, que combinará con nuestro titulo y llamará la atención siendo simple, con todo
-    esto una palmera junto a nuestro nombre Oasis creemos que puede generar un sentimiento de relajación,
-    bienestar y naturaleza, principios vitales del deporte.
+    1-Logotipo
+        Para el logotipo de nuestra página queriamos algo que representará correctamente nuestra vision 
+        sobre el deporte, que combinará con nuestro titulo y llamará la atención siendo simple, con todo
+        esto una palmera junto a nuestro nombre Oasis creemos que puede generar un sentimiento de relajación,
+        bienestar y naturaleza, principios vitales del deporte.
 
-2-Colores
-    Hablando sobre los colores hemos cogido una paleta representada por un azul marino para el logo
-    representando tranquilidad, confianza y profesionalismo, un verde de naturaleza frescura y salud,
-    un tono naranja para dar mas enería y motavición, y unos tonos blancos y grises de pureza, simplicidad,
-    modernidad y estabilidad. Creemos sin duda que son colores perfectos para reflejar nuestra idea.
+    2-Colores
+        Hablando sobre los colores hemos cogido una paleta representada por un azul marino para el logo
+        representando tranquilidad, confianza y profesionalismo, un verde de naturaleza frescura y salud,
+        un tono naranja para dar mas enería y motavición, y unos tonos blancos y grises de pureza, simplicidad,
+        modernidad y estabilidad. Creemos sin duda que son colores perfectos para reflejar nuestra idea.
 
-3-Imagenes
-    En cuanto a las imagenes tenemos varias de cada deporte que ofrecemos en nuestros servicios para que
-    sea más llamativo y fácil de entender a la hora de escoger uno.
+    3-Imagenes
+        En cuanto a las imagenes tenemos varias de cada deporte que ofrecemos en nuestros servicios para que
+        sea más llamativo y fácil de entender a la hora de escoger uno.
 
-4-Fuentes
-    Hemos elegido dos fuetes diferentes primero podemos ver Afacad una letra moderna,decorativa y 
-    distintiva ideal para el logotipo y los encabezados principales para establecer una identidad visual fuerte y única.
-    También tenemos Onest una fuente mas limpia y con muy buena lengibidad, perfecta para el texto del 
-    cuerpo y menús de navegación, aquellos textos mas largos y que deben ser mas legibles y claros.
+    4-Fuentes
+        Hemos elegido dos fuetes diferentes primero podemos ver Afacad una letra moderna,decorativa y 
+        distintiva ideal para el logotipo y los encabezados principales para establecer una identidad visual fuerte y única.
+        También tenemos Onest una fuente mas limpia y con muy buena lengibidad, perfecta para el texto del 
+        cuerpo y menús de navegación, aquellos textos mas largos y que deben ser mas legibles y claros.
 
-5-Iconos
-    En cuantos a los iconos, nos hemos decantado por cuatro de ellos muy representativos para sus funciones,
-    un emoticono de persono para las funciones de iniciar sesion, registrarse y relacionadas con tu cuenta, 
-    un corazón para dejar me gustas en nuestros cursos, un boli sobre un papel para la sección de comentarios 
-    de las actividades o contactarnos, y finalmente una pelota de voleibol perfecta para representar los deportes.
+    5-Iconos
+        En cuantos a los iconos, nos hemos decantado por cuatro de ellos muy representativos para sus funciones,
+        un emoticono de persono para las funciones de iniciar sesion, registrarse y relacionadas con tu cuenta, 
+        un corazón para dejar me gustas en nuestros cursos, un boli sobre un papel para la sección de comentarios 
+        de las actividades o contactarnos, y finalmente una pelota de voleibol perfecta para representar los deportes.
 
 ## Landing Page
 Para el boceto de nuestar LandingPage hemos incluido: 
