@@ -126,7 +126,7 @@ gama de cursos, deportes y oportunidades de competición.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 
-![Método UX](p2/6.-Bocetos/Wireframe/Wireframe.png)
+![Método UX](P2/6.-Bocetos/Wireframe/Wireframe.png)
 
 ----- 
 
@@ -151,7 +151,7 @@ Fuentes modernas, decorativa y distintivas para el logo y las cabezeras y otra m
 Iconos representativos y globales para las principales funciones de la página.
 
 
-![Método UX](p3/1.-MoodBoard/OasisMoodboard.png)
+![Método UX](P3/1.-MoodBoard/OasisMoodboard.png)
 
 3.b Landing Page
 ----
@@ -161,17 +161,17 @@ Un elemento gráfico que refuerze nuestra idea basado en la naturaleza y el depo
 Un par de beneficios sobre nuestras instalaciones para llamar más la atención de los clientes.
 Y un cta para acceder a la página.
 
-![Método UX](p3/2.-LandingPage/LandingPage.png)
+![Método UX](P3/2.-LandingPage/LandingPage.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-![alt text](p3/3.-%20Guidelines/Components.png)
+![alt text](P3/3.-%20Guidelines/Components.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-![alt text](p3/4.-%20Layout/Layout.png)
+![alt text](P3/4.-%20Layout/Layout.png)
 
 
 
