@@ -151,7 +151,7 @@ Fuentes modernas, decorativa y distintivas para el logo y las cabezeras y otra m
 Iconos representativos y globales para las principales funciones de la página.
 
 
-![Método UX](P3/1.-MoodBoard/OasisMoodboard.png)
+![Método UX](P3/1.-MoodBoard/OasisMoodBoard.png)
 
 3.b Landing Page
 ----
