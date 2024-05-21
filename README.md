@@ -4,16 +4,16 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... )
 Grupo: DIU1_PaloSeco.  Curso: 2023/24 
 Updated: 14/3/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2
+<b>Proyecto</b> 
+<br>
 Oasis
 
-Descripción: 
->>> Describa la idea de su producto en la práctica 2 
+<b>Descripción</b>
+<br> 
 Polideportivo que oferta cursos y alquileres de pistas
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+<b>Logotipo</b>
+<br> 
 ![Método UX](img/oasis-high-resolution-logo.png)
 
 Miembros
@@ -70,10 +70,10 @@ Persona #2: Representa el escenario que recorre una persona trabajadora hasta qu
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->> Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de usabilidad
-> - documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
-> - Valoración final (numérica): 6,5
-> - Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
+
+- documento:  Usability-review-template-2.pdf / Usability-review-template.xlsx
+- Valoración final (numérica): 6,5
+- Comentario sobre la valoración: Es una página web correcta, cumple con sus funcionalidades principales de información aunque tiene pequeños errores y algunos conceptos no son del todo intuitivos.
 
 
 ## Paso 2. UX Design  
@@ -90,11 +90,7 @@ Persona #2: Representa el escenario que recorre una persona trabajadora hasta qu
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres) 
+     
 <br>
 Oasis es un polideportivo que consiste en la creación de unas instalaciones para poder
 ofrecer a nuestros clientes diferentes talleres de diferentes deportes, para que todas
@@ -107,17 +103,17 @@ gama de cursos, deportes y oportunidades de competición.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
-----
 
 ![Método UX](img/scopecanvas1.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+<b>Task Analysis</b>
 
 ![Método UX](img/taskanilisis.png)
+
+<b>User Flows</b>
 
 ![Método UX](img/User-flow-1.png)
 ![Método UX](img/User-flow-2.png)
@@ -128,29 +124,21 @@ gama de cursos, deportes y oportunidades de competición.
 ----
 ![Método UX](img/SiteMap-PaloSeco.png)
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
------
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Método UX](p2/6.-Bocetos/Wireframe/Wireframe.png)
+
+----- 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+<h1> 🚀Demo Oasis🚀</h1>
+
+https://www.figma.com/design/mCsUDRopyAOq8D0LQfepgl/PaloSeco---Oasis?node-id=41-9&t=yKfFrbMuQoepkTMS-0
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 <br>
 Para el diseño visual vamos a conseguir un logotipo que represente nuestra vision sobre
 el deporte que combine con nuestro titulo y llame la atención.
@@ -163,28 +151,28 @@ Fuentes modernas, decorativa y distintivas para el logo y las cabezeras y otra m
 Iconos representativos y globales para las principales funciones de la página.
 
 
+![Método UX](p3/1.-MoodBoard/OasisMoodboard.png)
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
 <br>
 La landing Page constará de un Título inspirador y motivador junto con un subtítulo llamativo y que genere en los clientes sentimientos de querer participar.
 Un elemento gráfico que refuerze nuestra idea basado en la naturaleza y el deporte.
 Un par de beneficios sobre nuestras instalaciones para llamar más la atención de los clientes.
 Y un cta para acceder a la página.
 
+![Método UX](p3/2.-LandingPage/LandingPage.png)
+
+
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![alt text](p3/3.-%20Guidelines/Components.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![alt text](p3/4.-%20Layout/Layout.png)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
