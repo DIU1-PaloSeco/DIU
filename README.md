@@ -173,14 +173,13 @@ Y un cta para acceder a la página.
 
 ![alt text](P3/4.-%20Layout/Layout.png)
 
+<b>Video demo</b>
+https://drive.google.com/file/d/1FB4z4e0SoxvE19RWYu9My5xuZeA7VSPa/view?usp=sharing
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 <br>
 Finalmente nuestro producto se centra en el diseño de una página web consistente y con
 todas las medidas de accesibilidad posibles cumpliendo unos objtivos claros de un buen diseño visual para atraer visitas, 
