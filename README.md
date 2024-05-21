@@ -14,6 +14,7 @@ Polideportivo que oferta cursos y alquileres de pistas
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+(img/oasis-high-resolution-logo.png)
 
 Miembros
  * :bust_in_silhouette:  Adrián Castro Reyes     :octocat:     
