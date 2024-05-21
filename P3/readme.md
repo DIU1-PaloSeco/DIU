@@ -11,7 +11,7 @@
     2-Colores
         Hablando sobre los colores hemos cogido una paleta representada por un azul marino para el logo
         representando tranquilidad, confianza y profesionalismo, un verde de naturaleza frescura y salud,
-        un tono naranja para dar mas enería y motavición, y unos tonos blancos y grises de pureza, simplicidad,
+        un tono naranja para dar mas energía y motavición, y unos tonos blancos y grises de pureza, simplicidad,
         modernidad y estabilidad. Creemos sin duda que son colores perfectos para reflejar nuestra idea.
 
     3-Imagenes
@@ -21,7 +21,7 @@
     4-Fuentes
         Hemos elegido dos fuetes diferentes primero podemos ver Afacad una letra moderna,decorativa y 
         distintiva ideal para el logotipo y los encabezados principales para establecer una identidad visual fuerte y única.
-        También tenemos Onest una fuente mas limpia y con muy buena lengibidad, perfecta para el texto del 
+        También tenemos Onest una fuente mas limpia y con muy buena legibilidad, perfecta para el texto del 
         cuerpo y menús de navegación, aquellos textos mas largos y que deben ser mas legibles y claros.
 
     5-Iconos
