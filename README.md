@@ -94,7 +94,8 @@ Persona #2: Representa el escenario que recorre una persona trabajadora hasta qu
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> (150-200 caracteres) 
+<br>
 Oasis es un polideportivo que consiste en la creación de unas instalaciones para poder
 ofrecer a nuestros clientes diferentes talleres de diferentes deportes, para que todas
 las edades puedan disfrutar del deporte.
@@ -107,7 +108,9 @@ gama de cursos, deportes y oportunidades de competición.
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
-![Método UX](img/ScopeCanvas1.png)
+----
+
+![Método UX](img/scopecanvas1.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
@@ -148,6 +151,7 @@ Término | Significado
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+<br>
 Para el diseño visual vamos a conseguir un logotipo que represente nuestra vision sobre
 el deporte que combine con nuestro titulo y llame la atención.
 Este logo se podrá usar en diferentes reses sociales como Twitter ya que tendremos diferentes
@@ -165,6 +169,7 @@ Iconos representativos y globales para las principales funciones de la página.
 
 
 >>> Plantear Landing Page 
+<br>
 La landing Page constará de un Título inspirador y motivador junto con un subtítulo llamativo y que genere en los clientes sentimientos de querer participar.
 Un elemento gráfico que refuerze nuestra idea basado en la naturaleza y el deporte.
 Un par de beneficios sobre nuestras instalaciones para llamar más la atención de los clientes.
@@ -188,6 +193,7 @@ Y un cta para acceder a la página.
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto
+<br>
 Finalmente nuestro producto se centra en el diseño de una página web consistente y con
 todas las medidas de accesibilidad posibles cumpliendo unos objtivos claros de un buen diseño visual para atraer visitas, 
 una landing page con una bienvenida amigable y llamativa hacia nuestro proyecto y un layout simulando nuestra web final.
