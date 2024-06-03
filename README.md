@@ -222,43 +222,36 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Página web sobre reserva de cursos de cocina
+https://github.com/carloshoyo/DIU?tab=readme-ov-file
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Carlos  | H / 53   | Auxiliar de enfermería  | Ninguna       | Extrovertido | Phone.       | A 
+| Ruben  | H / 33   | Diseñador Gráfico  | Media       | Introvertida       | Phone        | A 
+| Alberto  | H / 19   | Estudiante     | Muy Baja        | Introvertida    |Phone      | B 
+| Clara  | M / 46   | Gerente de tienda  | Baja       | Sociable     | Phone        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
+![alt text](<Cuestionario Sus.png>)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Ha habido una buena valoración en ambos test A y B, aunque el test A ha sido el que ha tenido una mejor valoración. En ambis test ha valorado la facilidad de uso y la claridad de la página, así como, la accesibilidad para personas de todas las edades. En ambos test se ha valorado la navegación por la página.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+🚀
+[Usability report para DIU2.CHL](<P4/4.-Usability Report/DIU_report-template-usability-DIU2-CHL-by-DIU1-PaloSeco.pdf>)
+🚀
 
-
-
->>> Valoración personal 
+En nuestra opinión es una página muy completa, y aunque no destaque por su diseño, cumple con todas las funcionalidades necesarias para que el usuario pueda navegar por ella sin problemas. La página es clara y concisa, y aunque hay algunos errores, estos no son muy graves y no afectan a la experiencia del usuario. En general, la página es muy usable y fácil de navegar, y cumple con las expectativas de los usuarios. 
 
 
 
@@ -267,12 +260,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+<video controls src="Oasis-eye-tracking 1.mp4" title="Oasis Eye tracking"></video>
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
+Nuestra valoración final es que la página es muy usable y fácil de navegar, y cumple con las expectativas de los usuarios. Aunque hay algunos errores, estos no son muy graves y no afectan a la experiencia del usuario. En general, la página es clara y concisa, y cumple con todas las funcionalidades necesarias para que el usuario pueda navegar por ella sin problemas. La página es muy completa, y aunque no destaque por su diseño, es muy usable y fácil de navegar.
 
 
 
@@ -280,7 +270,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+En nuestra opinión, el proyecto ha sido muy interesante y nos ha permitido aprender mucho sobre el diseño de interfaces de usuario. Hemos podido aplicar los conocimientos adquiridos en clase y hemos podido ver cómo se aplican en la práctica. Además, hemos podido trabajar en equipo y hemos podido ver cómo se trabaja en un proyecto de diseño de interfaces de usuario. En general, ha sido una experiencia muy positiva y nos ha permitido aprender mucho sobre el diseño de interfaces de usuario.
+
+Como punto de mejora, creemos que podríamos haber profundizado más en algunos aspectos del proyecto, como el diseño visual o la usabilidad de la página. También creemos que podríamos haber trabajado más en equipo y haber colaborado más entre nosotros. En general, creemos que el proyecto ha sido muy positivo y nos ha permitido aprender mucho sobre el diseño de interfaces de usuario.
 
 
 
