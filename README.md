@@ -193,7 +193,7 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+<video controls src="Oasis-eye-tracking 1.mp4" title="Oasis Eye tracking"></video> 
 
 Diseño del experimento 
 ----
@@ -260,7 +260,6 @@ En nuestra opinión es una página muy completa, y aunque no destaque por su dis
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
-<video controls src="Oasis-eye-tracking 1.mp4" title="Oasis Eye tracking"></video>
 
 Nuestra valoración final es que la página es muy usable y fácil de navegar, y cumple con las expectativas de los usuarios. Aunque hay algunos errores, estos no son muy graves y no afectan a la experiencia del usuario. En general, la página es clara y concisa, y cumple con todas las funcionalidades necesarias para que el usuario pueda navegar por ella sin problemas. La página es muy completa, y aunque no destaque por su diseño, es muy usable y fácil de navegar.
 
