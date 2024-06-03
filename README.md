@@ -193,29 +193,13 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
-<video controls src="Oasis-eye-tracking 1.mp4" title="Oasis Eye tracking"></video> 
+https://github.com/DIU1-PaloSeco/DIU/assets/130395782/cc027acf-e6f1-4063-99a7-7473dc3c1363
+
 
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
+![Vision map](https://github.com/DIU1-PaloSeco/DIU/assets/130395782/eaeb588e-d036-470c-8de1-32c97b47e088)
 
 ## Paso 4. Evaluación 
 
